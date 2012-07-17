@@ -10,7 +10,7 @@ CitizensUI is a windows graphical user interface for the minecraft/bukkit plugin
 To install:
 
 - You will need .NET framework 3.5 to run this.
-- Open the latest zip file on the downloads page
+- Open the latest zip file on the [downloads](https://github.com/jrbudda/CitizensUI/downloads) page
 - Extract the contents to the directory of your choice
 - Run the CitizensUI.exe
 - The first time you run the program, it will prompt you to select your minecraft server plugins directory.
