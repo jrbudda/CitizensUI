@@ -15,10 +15,18 @@ Features:
  - Pick your requirements, commands, items, colors, and scripts from convient drop-down lists.
  - Add large blocks of text with color to denizen scripts, with optional waits between lines.
 
+<table>
+<tr>
+<td>
+<img src ="http://i.imgur.com/bKXT3.png" width = 300>
+</td>
+<td>
+<img src = "http://i.imgur.com/S0GDl.png" width = 300>
+</td>
 
-![page1](http://i.imgur.com/bKXT3.png)
+</tr>
 
-![page2](http://i.imgur.com/S0GDl.png)
+</table>
 
 
 To install:
