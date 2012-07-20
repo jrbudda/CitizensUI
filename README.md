@@ -1,6 +1,11 @@
 WARNING: This is a BETA editor. Make a back-up of your Citizens and Denizen directories BEFORE using this software.
 
 NOTE: CitizensUI is currently only compatible with citizens2 build 223 and Denizen build 124
+Download them here:
+- [Citizens2](http://ci.citizensnpcs.net/job/Citizens2/223/artifact/target/citizens-2.0-SNAPSHOT.jar)
+- [Denizen](http://ci.citizensnpcs.net/job/Denizen/124/artifact/target/denizen-0.6.jar)
+
+
 
 CitizensUI is a .NET graphical user interface for the minecraft/bukkit plugin Citizens2 and associated character plugins.
 
