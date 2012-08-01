@@ -23,10 +23,10 @@ Features:
 <table>
 <tr>
 <td>
-<img src ="http://i.imgur.com/TcdRn.png" width = 450>
+<img src ="http://i.imgur.com/TcdRn.png" width = 300>
 </td>
 <td>
-<img src ="http://i.imgur.com/RDfMc.png" width = 450>
+<img src ="http://i.imgur.com/RDfMc.png" width = 300>
 </td>
 
 
