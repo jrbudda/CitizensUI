@@ -1,9 +1,13 @@
 WARNING: This is a BETA editor. Make a back-up of your Citizens and Denizen directories BEFORE using this software.
 
 NOTE: 7/29/2012: CitizensUI 0.7 is currently compatible only with citizens2 build 249+ and Denizen build 223+
+
+NOTE: 8/1/2012: CitizensUI now supports CitiTraders.
+
 Download them here:
 - [Citizens2](http://ci.citizensnpcs.net/job/Citizens2/)
 - [Denizen] (http://ci.citizensnpcs.net/job/Denizen/)
+- [CitiTraders] (http://ci.citizensnpcs.net/job/Denizen/)
 
 If your files were created using versions of citizens2 older than 223, Citizens UI WILL convert them for you to the new file format.
 
