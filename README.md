@@ -25,6 +25,9 @@ Features:
 <td>
 <img src ="http://i.imgur.com/TcdRn.png" width = 450>
 </td>
+<td>
+<img src ="http://i.imgur.com/RDfMc.png" width = 450>
+</td>
 
 
 </tr>
