@@ -9,7 +9,7 @@ Update: 7/29/2012: CitizensUI 0.7 is currently compatible only with citizens2 bu
 Download the supported plugins here:
 - [Citizens2](http://ci.citizensnpcs.net/job/Citizens2/)
 - [Denizen] (http://ci.citizensnpcs.net/job/Denizen/)
-- [CitiTraders] (http://ci.citizensnpcs.net/job/Denizen/)
+- [CitiTraders] (https://github.com/tehbeard/CitiTraders)
 - [Sentry] (http://wiki.citizensnpcs.net/Sentry)
 
 If your files were created using versions of citizens2 older than 223, Citizens UI WILL convert them for you to the new file format.
