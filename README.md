@@ -1,7 +1,9 @@
 WARNING: This is a BETA editor. Make a back-up of your Citizens and Denizen directories BEFORE using this software.
 
 Update: 8/5/2012: CitizensUI now supports Sentry. v0.7.2
+
 Update: 8/1/2012: CitizensUI now supports CitiTraders. v0.7.1
+
 Update: 7/29/2012: CitizensUI 0.7 is currently compatible only with citizens2 build 249+ and Denizen build 223+
 
 Download the supported plugins here:
