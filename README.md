@@ -1,1 +1,1 @@
-http://wiki.citizensnpcs.net/CitizensUI
+http://wiki.citizensnpcs.com/CitizensUI
